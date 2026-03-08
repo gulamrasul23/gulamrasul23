@@ -1,4 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&fontAlignY=35" width="100%" />
+<br>
+<p align="center">
+  <img src="https://i.ibb.co/3w5m3wL/your-profile-banner.png" alt="Gulam Rasul's GitHub Profile Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Gulam Rasul</h1>
+<h3 align="center">👨‍💻 MERN Stack Developer | BSc in CSE Student 🎓</h3>
+
+---
 
 <h1 align="center">Hi 👋, I'm Gulam Rasul</h1>
 <h3 align="center">👨‍💻 MERN-Stack Web Developer</h3>
