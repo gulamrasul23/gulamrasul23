@@ -17,7 +17,7 @@ I am a passionate web developer dedicated to building scalable, user-friendly, a
 - 🔭 I’m currently working on **MERN-Stack Web Applications** using the MERN stack.
 - 🌱 I’m currently exploring **Next.js & Advanced React Patterns**.
 - 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**.
-- 🌐 Explore My Portfolio [Gulam Rasul]([Link](https://portfolio-six-flame-xjdvqk020y.vercel.app))
+- 🌐 Explore My Portfolio [Gulam_Rasul]([Link](https://portfolio-six-flame-xjdvqk020y.vercel.app)
 - 📫 How to reach me: **gulamrasulrahim23@gmail.com**
 
 <br>
