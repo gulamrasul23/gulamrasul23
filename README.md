@@ -1,13 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&fontAlignY=35" width="100%" />
-<br>
 <p align="center">
   <img src="./asset/banner1.jpg" alt="Gulam Rasul's GitHub Profile Banner" width="100%" height="60%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Gulam Rasul</h1>
-<h3 align="center">👨‍💻 MERN Stack Developer | BSc in CSE Student 🎓</h3>
-
----
 
 <h1 align="center">Hi 👋, I'm Gulam Rasul</h1>
 <h3 align="center">👨‍💻 MERN-Stack Web Developer</h3>
@@ -20,12 +13,12 @@ I am a passionate web developer dedicated to building scalable, user-friendly, a
 <br>
 
 ## ⚡ Current Activities
+- 👋 Hi, I’m Gulam Rasul
 - 🔭 I’m currently working on **MERN-Stack Web Applications** using the MERN stack.
 - 🌱 I’m currently exploring **Next.js & Advanced React Patterns**.
-- 💼 I am available for freelance work and collaborations.
-- 💻 Regularly practicing problem-solving with **Data Structures and Algorithms**.
 - 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**.
-- 📫 How to reach me: **your.email@example.com**
+- 🌐 Explore My Portfolio [Gulam Rasul]([Link](https://portfolio-six-flame-xjdvqk020y.vercel.app))
+- 📫 How to reach me:[Email](gulamrasulrahim23@gmail.com) **gulamrasulrahim23@gmail.com**
 
 <br>
 
@@ -52,10 +45,10 @@ I am a passionate web developer dedicated to building scalable, user-friendly, a
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](gulamrasulrahim23@gmail.com)
 
 <br>
 
