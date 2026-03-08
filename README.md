@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&fontAlignY=35" width="100%" />
 <br>
 <p align="center">
-  <img src="./asset/banner.jpg" alt="Gulam Rasul's GitHub Profile Banner" width="100%" height="60%" />
+  <img src="./asset/banner1.jpg" alt="Gulam Rasul's GitHub Profile Banner" width="100%" height="60%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gulam Rasul</h1>
