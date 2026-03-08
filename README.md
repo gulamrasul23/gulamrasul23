@@ -59,7 +59,7 @@ I am a passionate web developer dedicated to building scalable, user-friendly, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulamrasul23&layout=compact&theme=radical" alt="Top Languages" width="38%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulamrasul23&theme=radical" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulamrasul23&theme=radical" alt="GitHub Streak" width="70%" />
 </p>
 
 <br>
