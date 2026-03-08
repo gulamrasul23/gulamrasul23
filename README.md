@@ -59,3 +59,14 @@ I am a passionate web developer dedicated to building scalable, user-friendly, a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulamrasul23&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
+
+<br>
+## 📊 GitHub Stats  
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gulamrasul23&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulamrasul23&layout=compact&theme=default) |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=gulamrasul23&style=flat-square)
