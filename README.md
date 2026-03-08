@@ -18,7 +18,7 @@ I am a passionate web developer dedicated to building scalable, user-friendly, a
 - 🌱 I’m currently exploring **Next.js & Advanced React Patterns**.
 - 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**.
 - 🌐 Explore My Portfolio [Gulam Rasul]([Link](https://portfolio-six-flame-xjdvqk020y.vercel.app))
-- 📫 How to reach me:[Email](gulamrasulrahim23@gmail.com) **gulamrasulrahim23@gmail.com**
+- 📫 How to reach me: **gulamrasulrahim23@gmail.com**
 
 <br>
 
