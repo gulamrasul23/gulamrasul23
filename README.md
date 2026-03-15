@@ -45,9 +45,9 @@ I am a passionate web developer dedicated to building scalable, user-friendly, a
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gulam-rasul)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://portfolio-six-flame-xjdvqk020y.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](gulamrasulrahim23@gmail.com)
 
 <br>
